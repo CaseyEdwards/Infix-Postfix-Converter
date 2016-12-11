@@ -1,0 +1,11 @@
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\InfixPostfixConverterProject\InfixPostfixConverterProject\bin\Debug\InfixPostfixConverterProject.exe.config
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\InfixPostfixConverterProject\InfixPostfixConverterProject\bin\Debug\InfixPostfixConverterProject.exe
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\InfixPostfixConverterProject\InfixPostfixConverterProject\bin\Debug\InfixPostfixConverterProject.pdb
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\InfixPostfixConverterProject\InfixPostfixConverterProject\obj\Debug\InfixPostfixConverterProject.csprojResolveAssemblyReference.cache
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\InfixPostfixConverterProject\InfixPostfixConverterProject\obj\Debug\InfixPostfixConverterProject.Properties.Resources.resources
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\InfixPostfixConverterProject\InfixPostfixConverterProject\obj\Debug\InfixPostfixConverterProject.csproj.GenerateResource.Cache
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\InfixPostfixConverterProject\InfixPostfixConverterProject\obj\Debug\InfixPostfixConverterProject.exe
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\InfixPostfixConverterProject\InfixPostfixConverterProject\obj\Debug\InfixPostfixConverterProject.pdb
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\InfixPostfixConverterProject\InfixPostfixConverterProject\obj\Debug\InfixPostfixConverterProject.InfixPostfixForm.resources
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\InfixPostfixConverterProject\InfixPostfixConverterProject\obj\Debug\InfixPostfixConverterProject.AboutBox.resources
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\InfixPostfixConverterProject\InfixPostfixConverterProject\obj\Debug\InfixPostfixConverterProject.SplashScreen.resources

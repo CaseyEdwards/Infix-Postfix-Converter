@@ -1,0 +1,17 @@
+Alpha = Beta + Gamma * Delta
+Beta = Gamma * Delta + Nu
+A = (B+C) * (C - D)/2 + E
+Angelo = (Marko * Harpo + Zeppo/3
+Purple = Red + Blue)
+120 = 1 * 2 * 3 * 4 * 5
+A = ((((A+B)-C)*D)/(E+1))
+A = (((1+A+B)-C)*D)/(E+1))
+
+dResult = (3.0 * arAmt[nI] / 2.0 + 6.0) * dFudgeFactor
+dAvg=(dA+dB+dC+dD+dE)/5.0
+Foo*(Bar + Derp/42)-7 = Rabbit
+Strange women lying in ponds distributing swords.
+(((((((())))))))
+((()))(()A+B(()))
+B/C/D/E/((X+Y)*Z)
+& * % = $
